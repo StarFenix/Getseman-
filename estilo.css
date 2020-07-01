@@ -1,0 +1,55 @@
+body{
+	 /*background: url('imagenes/fondo2.png') no-repeat;*/
+	 background: linear-gradient(-100deg, #C4FCFC, #DBB6EE);
+	 
+  margin: 0;
+  padding: 0;
+  background-color: #17a2b8;
+  height: 50vh;
+}
+h3 {text-shadow: 0.1em 0.1em #333;}
+
+
+h1 {text-shadow: -1px 0 black, 0 1px black,
+	1px 0 black, 0 -1px black;}
+	h2 {text-shadow: -1px 0 black, 0 1px black,
+	1px 0 black, 0 -1px black;}
+
+
+label{ }
+* {
+	margin:0;
+	padding:0;
+}
+ 
+
+.contenedor {
+	width:85%;
+	margin:15px auto;
+}
+
+nav{
+	
+}
+ 
+.elemento {
+	width:200px;
+	background-color:  opacity: 0.5;	
+	float:left;
+	margin-right:10px;
+	margin-bottom:10px;
+	box-shadow:0 1px 2px 0 rgba(0,0,0,0.22);
+}
+ 
+.elemento p {
+	padding:10px;
+	font-size:13px;
+}
+ 
+.elemento img {
+	width:100%;
+}
+.contenedor_logo{
+	margin: auto;
+	text-align: center;
+}
